@@ -1,0 +1,77 @@
+ body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+ header {
+    background-color: #3498db; 
+    text-align: center;
+    padding: 20px;
+   
+}
+
+.navbar-nav li {
+    display: inline-block;
+    margin-left: 20px; }/* Adjust the value as needed for spacing */
+ 
+
+.navbar-nav li a {
+    color: #eddede;
+    text-decoration: none;
+    
+}
+
+img {
+    max-width: 200%;
+    height: auto;
+} 
+ .navigation {
+    margin-top: 20px;
+}
+
+.navigation td {
+    padding: 20px;
+}
+
+/* Style the main content */
+main {
+    padding: 20px;
+    text-align: center;
+} 
+
+ p {
+    line-height: 1.5;
+}
+
+
+.banner {
+    background-color:#3498db; 
+    color: #1d114a; 
+    padding: 20px;
+    text-align: center;
+  
+} 
+
+
+ .banner1 {
+    background-color: #3498db; 
+    color: #1d114a; 
+    padding: 20px;
+    text-align: center;
+  
+} 
+
+
+
+
+  
+
+
+    
+ 
+    .navbar-nav li a {
+        color: #120202;
+        text-decoration: none;
+    }
+    
